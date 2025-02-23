@@ -91,7 +91,7 @@ Tools: Jupyter Notebook (for interactive analysis and development).
 
 🚀 How to Get Started
 
-Clone the Repository bash Copy Edit git clone https://github.com/yourusername/PowerPulse.git
+Clone the Repository bash Copy Edit git clone https://github.com/Gangadharan-S/PowerPulse
 Install Dependencies Make sure you have Python 3.x installed along with the necessary libraries. You can install the required dependencies using pip:
 bash Copy Edit pip install pandas scikit-learn matplotlib seaborn 3. Run the Code Once the dependencies are installed, you can start exploring the project:
 
